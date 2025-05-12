@@ -1,0 +1,18 @@
+{
+  "id": 1008,
+  "category": {
+    "id": 1,
+    "name": "gato"
+  },
+  "name": "Bichento",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "vacinado"
+    }
+  ],
+  "status": "vendido"
+}
